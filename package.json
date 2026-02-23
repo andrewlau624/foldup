@@ -1,6 +1,6 @@
 {
   "name": "@andrewlau624/foldup",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "bin": {
     "foldup": "./dist/index.js"
   },
