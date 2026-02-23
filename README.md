@@ -15,6 +15,12 @@ npx foldup refold ./
 npx foldup refold ./src/components -p "Organize files by feature modules instead of file type"
 ```
 
+## Currently Supported LLMs
+
+- **GROQ** (via `GROQ_API_KEY`)  
+> More providers coming soon!
+---
+
 Made with ❤️ for developers who love clean, organized code.
 
 
