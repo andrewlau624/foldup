@@ -2,6 +2,12 @@
 
 **LLM-powered repository architecture analyzer** that reorganizes your project structure automatically for cleaner, more maintainable codebases.  
 
+### 🌐 Links
+
+- **Website:** [http://andrewlau.dev/](http://andrewlau.dev/)  
+- **GitHub:** [https://github.com/andrewlau624](https://github.com/andrewlau624)  
+- **NPM:** [https://www.npmjs.com/package/@andrewlau624/foldup](https://www.npmjs.com/package/@andrewlau624/foldup)  
+
 ## Usage
 
 ```bash
