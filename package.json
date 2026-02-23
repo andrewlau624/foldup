@@ -4,6 +4,10 @@
   "bin": {
     "foldup": "./dist/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
+  },
   "type": "module",
   "main": "index.js",
   "files": [
