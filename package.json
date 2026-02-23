@@ -1,6 +1,6 @@
 {
   "name": "@andrewlau624/foldup",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "bin": {
     "foldup": "./dist/index.js"
   },
@@ -16,7 +16,17 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "git",
+    "llm",
+    "ai",
+    "code-organization",
+    "project-structure",
+    "refactor",
+    "automation",
+    "typescript",
+    "javascript"
+  ],
   "author": "andrewlau624",
   "license": "ISC",
   "description": "",
